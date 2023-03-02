@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://14daysofjs.netlify.app/">
-    <img alt="Banner" height="100%" width="100%"  src="https://www.linkpicture.com/q/20230227_114126_0000.png">
+  <a href="#">
+    <img alt="Banner" height="100%" width="100%"  src="https://repository-images.githubusercontent.com/361221587/24914c80-a8d3-11eb-9c97-9b951cba376a">
   </a>
 </p>
 
@@ -48,11 +48,11 @@
 
  <a href="https://twitter.com/ibuggedup" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="bugged-codes twitter handle" height="40" width="50" /></a>
   &nbsp;&nbsp;
-  	<a href="https://linkedin.com/in/iam-vipul" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh-thakkar-7764bb1a4" height="40" width="40" /></a>
+  	<a href="https://linkedin.com/in/iam-vipul" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Linkedin Profile of bugged-codes" height="40" width="40" /></a>
   &nbsp;&nbsp;
  
  <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/ibuggedup"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshthakkar971" /></a></p>
+<p><a href="https://www.buymeacoffee.com/ibuggedup"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffe link for bugged-codes" /></a></p>
 
 </p>
